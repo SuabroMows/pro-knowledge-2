@@ -1,0 +1,106 @@
+.head-bg {
+    background-color: #1ad5c0;
+}
+
+.head-title {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: 39px;
+}
+
+.head-logo{
+   height: 90px;
+}
+
+.navbar-nav{
+    margin: 0 auto;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.nav-link:hover {
+    cursor: pointer;
+    color: white !important;
+}
+
+.head-menu{
+    border-top: 1px solid #fcfa06;
+    margin: 30px;
+}
+
+.bg-main {
+    background-image: linear-gradient(  rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ),url("img/main.jpg");
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.bg-main-text {
+    color: white;
+    text-align: center;
+    font-size: 39px;
+    padding-top: 221px;
+}
+
+.napravlen{
+    background-color: #1ad5c0;
+}
+.napravlen-box {
+    padding-top: 30px; 
+    text-align: center;
+}
+.napravlen-img {
+    width: 60px;
+}
+
+.napravlen-title {
+    font-size: 39px;
+    padding-left: 550px;
+
+}
+
+.row-marg {
+    margin-top: 50px; 
+}
+
+.text-up{
+    font-size: 24px;
+}
+
+.head-logo-2 {
+    height: 70px;
+}
+.ajnj{
+    width: 50px;
+}
+.teach-logo{
+    height: 200px;
+
+}
+.text_x{
+    margin-top: 50px;
+    font-size: 24px; 
+}
+.album {
+    width: 30%;
+    padding-top: 50px;  
+}
+.napravlen-title2 {
+    font-size: 39px;
+    padding-left: 520px;
+}
+body{
+    background-color: #FFE59A ;
+}
+.text-tecer{
+    font-size: 39px
+}
+.fon{font-size: 40px
+
+}
